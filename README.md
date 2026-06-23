@@ -38,6 +38,6 @@ python app.py
 
 ## Author
 
-Victory Olokor
+Victory Olokor,
 CodeAlpha Cloud Computing Internship
 
